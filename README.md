@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamrun Nahar</h1>
-<h3 align="center">BSc in CSE (5th Semester)</h3>
+<h3 align="center">BSc in CSE (Final Semester)</h3>
 
-- 🔭 I’m currently working on **Vaccination Process**
+- 🔭 I’m currently working on **Women Safety Android App**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Dart**
 
-- 📫 How to reach me **cse_2012020309@lus.ac.bd**
+- 📫 How to reach me **knurmirahman2000@gmail.com**
 
 - ⚡ Fun fact **Talkative**
 
