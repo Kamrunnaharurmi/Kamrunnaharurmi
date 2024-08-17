@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamrun Nahar</h1>
-<h3 align="center">BSc in CSE (Final Semester)</h3>
-
-- 🔭 I’m currently working on **Women Safety Android App**
+<h3 align="center">BSc in CSE (Graduate)</h3>
 
 - 🌱 I’m currently learning **Dart**
 
