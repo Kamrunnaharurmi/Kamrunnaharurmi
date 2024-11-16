@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamrun Nahar</h1>
-<h3 align="center">BSc in CSE (Graduate)</h3>
+<h3 align="center">BSc in CSE </h3>
 
 - 🌱 I’m currently learning **Dart**
 
